@@ -1,0 +1,117 @@
+.menu {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90px;
+  height: 90px;
+}
+
+.dikeycizgi {
+  border-left: 3px solid black;
+  height: 700px;
+  display: inline-block;
+  position: absolute;
+  left: 90px;
+  top: 0;
+  border-right: 0;
+}
+
+.yataycizgi {
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  height: 84px;
+  display: inline-block;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 92px;
+}
+
+.baslik {
+  position: absolute;
+  left: 100px;
+}
+
+
+
+
+.altbaslik{
+
+position: absolute;
+  top: 150px;
+  left: 153px;
+border-bottom: 3px solid grey;
+width:70%;
+margin:10px;
+padding:5px 0 5px 0;
+
+}
+
+.form {
+position: absolute;
+  top: 200px;
+  Left: 150px;
+}
+.tarih {
+  margin:15px;
+  height: 40px;
+  width: 303px;
+
+}
+
+.soyad{
+  margin:15px;
+  height: 40px;
+  width: 300px;
+}
+.ad{
+  margin:15px;
+  height: 40px;
+  width: 300px;
+}
+
+.telefon{
+  margin:15px;
+  height: 40px;
+  width: 300px;
+}
+.konu{
+  margin:15px;
+  height: 40px;
+  width: 300px;
+}
+.kanal{
+  margin:15px;
+  height: 40px;
+  width: 300px;
+}
+.notalanı{
+  margin:15px;
+  height: 80px;
+  width: 643px;
+bottom: 10px;
+
+}
+
+
+.altcizgi{
+
+border-bottom:3px solid grey;
+height:0px;
+left: 153px;
+margin-left: 15px;
+width: 714.931px;
+}
+
+
+.kaydet{
+margin: 15px;
+  height: 30px;
+  width: 130px;
+  font-size: 20px;
+  color: white;
+  background-color: black;
+
+
+}
