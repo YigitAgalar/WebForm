@@ -1,5 +1,5 @@
 # WebForm
-Projenin sorunsuz çalışması için nodemodules.rar arşivinin içindeki klasörü  proje dosyalarıyla aynı bir klasöre çıkarmalısınız
+Projenin sorunsuz çalışması için node_modules.rar arşivinin içindeki klasörü  proje dosyalarıyla aynı bir klasöre çıkarmalısınız
 
 Webform local bir şekilde hostlanıyor , kayıt işlemini gerçekleştirmiyor 
 
